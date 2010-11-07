@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>JavaScript Optimizer</string>
+	<key>description</key>
+	<string>Lints and / or compresses the current JS and CSS file on save using Node.js</string>
+	<key>email</key>
+	<string>mark@codeinfront.com</string>
+	<key>contactName</key>
+	<string>Mark Rall</string>
+	<key>uuid</key>
+	<string>991BFB64-FD02-409A-9563-1614EA74575F</string>
+</dict>
+</plist>
